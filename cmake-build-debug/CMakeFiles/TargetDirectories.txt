@@ -1,0 +1,3 @@
+/Users/rayen/CLionProjects/quotes-bouaouina-leclere-int1/cmake-build-debug/CMakeFiles/quotes_bouaouina_leclere_int1.dir
+/Users/rayen/CLionProjects/quotes-bouaouina-leclere-int1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rayen/CLionProjects/quotes-bouaouina-leclere-int1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
