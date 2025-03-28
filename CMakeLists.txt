@@ -3,4 +3,4 @@ project(quotes_bouaouina_leclere_int1 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_library(quotes_bouaouina_leclere_int1 STATIC library.c)
+add_library(quotes_bouaouina_leclere_int1 STATIC main.c)
